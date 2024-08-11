@@ -1,7 +1,4 @@
-Contenido del N.º 85 traducido al japonés #2687
-_tools/writerside.mdContenido del N.º 85 traducido al japonés #2687
 
-<!--
 **Carlos271997/Carlos271997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
